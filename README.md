@@ -71,10 +71,10 @@ The following fields will be extracted for analysis:
 ---
 
 ## Resources
-* Google Cloud Console
-* YouTube Data API v3 Documentation
+* [Google Cloud Console](https://cloud.google.com/free?utm_source=PMAX&utm_medium=display&utm_campaign=FY24-H2-apac-gcp-DR-campaign-IN&utm_content=in-en&gad_source=1&gclid=CjwKCAiAl4a6BhBqEiwAqvrquvxZUGIm6eVFeUAYPzWtWD98tpQlaF02EYbwx7tL5c7y_ZtbiqYpVxoCp0cQAvD_BwE&gclsrc=aw.ds)
+* [YouTube Data API v3 Documentation](https://developers.google.com/youtube/v3/getting-started)
 
 ---
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the [MIT License](LICENSE)
