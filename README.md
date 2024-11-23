@@ -1,12 +1,9 @@
 # YouTube-Data-Collection-and-Analysis
 This project is designed to collect and analyze trending video data from YouTube using the YouTube Data API v3. The goal is to understand the key factors that contribute to a video becoming popular on YouTube.
 
----
 
 ## Overview
 The YouTube Data API v3 provides access to detailed information about YouTube videos, channels, and playlists. By leveraging this API, we can extract data such as video titles, descriptions, statistics, and more. This project focuses on trending videos to identify patterns and trends.
-
----
 
 ## Prerequisites
 1. A Google Cloud Console account.
