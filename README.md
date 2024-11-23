@@ -36,8 +36,8 @@ Step 2: Generate API Key
 ## How to Use
 1. Clone the repository:
 ```
-git clone https://github.com/your-username/YouTube-Data-Analysis.git  
-cd YouTube-Data-Analysis
+git clone https://github.com/SAKTHIVINASH2/YouTube-Data-Collection-and-Analysis.git  
+cd YouTube-Data-Collection-and-Analysis
 ```
 2. Install required Python libraries:
 ```
